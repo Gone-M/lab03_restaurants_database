@@ -92,9 +92,9 @@ All code is committed to **GitHub** in a repository named `lab3_restaurant_datab
 ```sh
 git init
 git add .
-git commit -m "Initial commit"
+git commit -m "Lab 3"
 git branch -M main
-git remote add origin <repository-url>
+git remote add origin https://github.com/Gone-M/lab03_restaurants_database.git
 git push -u origin main
 ```
 
